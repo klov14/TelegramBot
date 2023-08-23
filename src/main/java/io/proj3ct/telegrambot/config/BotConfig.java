@@ -1,6 +1,5 @@
 package io.proj3ct.telegrambot.config;
 
-import jdk.jfr.DataAmount;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

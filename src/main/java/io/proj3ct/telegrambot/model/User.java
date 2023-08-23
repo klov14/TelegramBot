@@ -1,5 +1,7 @@
 package io.proj3ct.telegrambot.model;
 
+
+
 import jakarta.persistence.*;
 import lombok.Data;
 import java.sql.Timestamp;
